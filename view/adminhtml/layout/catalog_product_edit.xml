@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <referenceContainer name="content">
+            <block class="BroSolutions\Keyword\Block\Adminhtml\JsConfig" name="customer_account_knockout_test" template="BroSolutions_Keyword::jsconfig.phtml" cacheable="false"/>
+        </referenceContainer>
+    </body>
+</page>
